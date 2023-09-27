@@ -1,2 +1,2 @@
 # rtCine_VS_KWIC
-This is the codes used for rtCine image reconstruction incorporating VS and KWIC
+This code uses RING for trajectory correction and GPU for image reconstruction, you need to install RING and gpuNUFFT packages properly.
